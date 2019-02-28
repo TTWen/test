@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/我的/Python全栈/day71-python 全栈开发-项目实战篇/PerfectCRM/.idea/PerfectCRM.iml" filepath="D:/我的/Python全栈/day71-python 全栈开发-项目实战篇/PerfectCRM/.idea/PerfectCRM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mysite/.idea/mysite.iml" filepath="$PROJECT_DIR$/../mysite/.idea/mysite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../codingmini/Flask 基础框架/v1/order/.idea/order.iml" filepath="$PROJECT_DIR$/../../../../codingmini/Flask 基础框架/v1/order/.idea/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../codingmini/order1/.idea/order1.iml" filepath="$PROJECT_DIR$/../../../../codingmini/order1/.idea/order1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test.iml" filepath="$PROJECT_DIR$/.idea/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../MyProjects/PycharmProjects/untitled/.idea/untitled.iml" filepath="$PROJECT_DIR$/../../MyProjects/PycharmProjects/untitled/.idea/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" filepath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" />
+    </modules>
+  </component>
+</project>
